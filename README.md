@@ -2,7 +2,9 @@
 IRW-Stitcher: Iterative Reweighted Warping for End-to-End Image Stitching
 
 <div align="center">
-  <h3>✨ The Art of Fusion: 21-Image Stitching Evolution</h3>
-  <img src="assets/result_final.gif" width="80%" />
-  <p><i>Witnessing the incremental reconstruction of the scene.</i></p>
+  <h2>IRW-Stitcher: Taming Large Parallax in Complex Scenes</h2>
+  
+  <img src="assets/final_result.gif" width="80%" />
+  
+  <p><i>Visualizing the robust fusion of 21 frames with significant parallax variations.</i></p>
 </div>
